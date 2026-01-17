@@ -12,7 +12,7 @@ An **event-driven backend microservice** built with **Node.js, TypeScript, Kafka
 - REST API using Express
 - Health check endpoint
 
- ## Tech Sta
+ ## Tech Stack
 
 - **Node.js**
 - **TypeScript**
